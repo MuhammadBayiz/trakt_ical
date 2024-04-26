@@ -4,7 +4,7 @@ flask_caching
 icalendar
 python-dotenv
 requests
-pytrakt
+pytrakt @ git+https://github.com/glensc/python-pytrakt.git@main
 pymongo[srv]
 gunicorn
 sentry-sdk[flask]
